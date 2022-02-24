@@ -1,0 +1,11 @@
+.icono{
+    cursor: pointer;
+}
+
+.ocultar{
+    display: none;
+    position: relative;
+}
+.union{
+    display: flex;
+}
